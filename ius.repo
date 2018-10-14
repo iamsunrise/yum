@@ -1,0 +1,5 @@
+[ius]
+name=iusrepo
+baseurl=https://mirrors.tuna.tsinghua.edu.cn/ius/stable/CentOS/6/$basearch
+gpgcheck=0
+enable=1
